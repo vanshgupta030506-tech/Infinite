@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/artworkcanvas.tsx","./src/components/controlpanel.tsx","./src/engine/colors.ts","./src/engine/shapegeometry.ts","./src/engine/tunnelrenderer.ts","./src/engine/types.ts"],"version":"5.7.3"}
