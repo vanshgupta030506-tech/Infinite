@@ -18,6 +18,10 @@ npm run build
 npm run preview
 ```
 
+## Deploy to GitHub Pages
+
+The GitHub Actions workflow builds the app and publishes the generated `dist` directory when changes are pushed to `main`. In the repository's **Settings → Pages**, set the build and deployment source to **GitHub Actions**. The Vite base path is configured for this repository's `/Infinite/` project page.
+
 ## Controls
 
 - Draw a replacement silhouette with a mouse, trackpad, or touchscreen; use **Reset shape** to restore the original.
